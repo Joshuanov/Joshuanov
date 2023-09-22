@@ -1,5 +1,5 @@
 <h1 align="center">Hi :v:, I am Joshua Vargas Chia  </h1>
-<h3 align="center">I am a Web Developer, from Chile </h3>
+<h3 align="center">I am a beginner Web Developer, from Chile </h3>
 
 
 ### About Me:
