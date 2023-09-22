@@ -7,7 +7,7 @@
 - ⌨️ Estudiando para ser Fullstack Java
 - 👨‍🎓 Estudiante de Analista programador en CIISA
 
-- :link: Connect with me: <a href="[www.linkedin.com/in/joshuanov](https://www.linkedin.com/in/joshuanov/)" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Dhamary08/Email-Sign/master/linkedin-in.png" alt="Jaime%20Reyes" height="30" width="25"/></a>
+- :link: Connect with me: <a href="www.linkedin.com/in/joshuanov" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Dhamary08/Email-Sign/master/linkedin-in.png" alt="Jaime%20Reyes" height="30" width="25"/></a>
 
 
 
